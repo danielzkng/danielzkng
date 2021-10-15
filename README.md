@@ -4,7 +4,7 @@ Some interesting classes I'm currently taking:
 
 * 15-210: Parallel and Sequential Algorithms and Data Structures
 * 15-312: Foundations of Programming Languages
-* 33-104: Experimental Physics
+* 21-259: Calculus in Three Dimensions
 
 Some interesting classes I've taken so far:
 
