@@ -1,4 +1,4 @@
-Hi, I'm Daniel Ng, or @danielzkng here on GitHub! I'm currently a rising sophomore at Carnegie Mellon University majoring in Computer Science.
+Hi, I'm Daniel Ng, or @danielzkng here on GitHub! I'm currently a sophomore at Carnegie Mellon University majoring in Computer Science and pursuing a concentration in Principles of Programming Languages.
 
 Some interesting classes I'm currently taking:
 
