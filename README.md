@@ -19,7 +19,7 @@ Some interesting classes I've taken so far:
 * 15-312: Foundations of Programming Languages
 * 21-259: Calculus in Three Dimensions
 
-I'm also a current teaching assistant for 15-210, and previously taught for 15-122 for both the Summer and Fall 2021 semesters.
+I'm also a current teaching assistant for 15-210, and previously TAed for 15-122 for both the Summer and Fall 2021 semesters.
 
 I can be contacted at danielzkng0 [at] gmail.com, or on LinkedIn here: https://www.linkedin.com/in/danielzkng/
 
