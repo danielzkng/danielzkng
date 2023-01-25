@@ -1,10 +1,9 @@
 Hi, I'm Daniel Ng, or @danielzkng here on GitHub! I'm currently a junior at Carnegie Mellon University majoring in Computer Science and pursuing a concentration in Principles of Programming Languages.
 
-Some interesting classes I'll be taking next semester:
+Some interesting classes I'll be taking this semester:
 
-* 07-300: Research and Innovation in Computer Science
-* 15-440: Distributed Systems
-* 15-451: Algorithm Design and Analysis
+* 07-400: Research Practicum in Computer Science
+* 15-411: Compiler Design
 
 Some interesting classes I've taken so far:
 
@@ -21,6 +20,9 @@ Some interesting classes I've taken so far:
 * 15-317: Constructive Logic
 * 15-259: Probability and Computing
 * 02-261: Quantitative Cell and Molecular Biology Laboratory
+* 07-300: Research and Innovation in Computer Science
+* 15-440: Distributed Systems
+* 15-451: Algorithm Design and Analysis
 
 I'm also a current teaching assistant for 15-210, and previously TAed for 15-122 for both the Summer and Fall 2021 semesters.
 
