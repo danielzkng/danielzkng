@@ -33,6 +33,8 @@ I'm also a current teaching assistant for 15-210, and previously TAed for 15-122
 
 I can be contacted at danielzkng0 [at] gmail.com, or on LinkedIn here: https://www.linkedin.com/in/danielzkng/
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielzkng&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="ovi" />
+
 <!---
 danielzkng/danielzkng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
